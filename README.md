@@ -1,7 +1,5 @@
 # Project-1-Shark_Attacks
 
-LINK REPO: 
-
 ## Overview:
 
 This aim of his project is to clean and format a dataset containing information about shark attacks, and use the data to produce visualizations that will either prove or disprove my hypotheses.
