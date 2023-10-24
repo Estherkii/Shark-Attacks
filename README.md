@@ -26,6 +26,8 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 Based on the data, statistics indicate that more men are unlikely bitten by sharks. We can probably attribute that to different factors such as that it's possible that shark populations have increased over the years or also that documentation of shark attacks has been recorded more often over time.
 
+![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/number_of_attacks_yearandsex.png?raw=true)
+
 # 2. Which shark species are responsible for the most human bites, and in what human activities do these bites occur most frequently?
 
 On the second graphic, we can see that men often engage in riskier activities than women, such as surfing, diving or swimming. It might be one of the reasons why men are most common bitten by sharks as they increase their exposure to potencial shark encounters.
