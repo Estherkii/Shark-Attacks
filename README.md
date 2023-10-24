@@ -62,8 +62,6 @@ Otherwise, bull sharks are known for territorial behavior and can be aggressive 
 
 * Given the increasing trend of shark attacks over the years, it's recommended to swim in a pool.
 
-* If you're a woman, you're in luck, as you have a lower probability of being attacked by a shark.
-
 * If you're planning to visit the USA, Australia, or South Africa, it's highly advisable to reconsider swimming.
 
-* If you ever encounter a great white shark, it's genuinely a cause for concern.
+* If you ever encounter a great white shark, it's a cause for concern.
