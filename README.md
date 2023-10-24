@@ -56,7 +56,7 @@ It also happens with the tiger shark, this specie may investigate or bite object
 
 Otherwise, bull sharks are known for territorial behavior and can be aggressive with humans, particularly in shallow waters. 
 
-![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/top_3_countries_attacks_species.png]) 
+![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/top_3_countries_attacks_species.png?raw=true)
 
 # In conclusion
 
