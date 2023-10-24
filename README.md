@@ -34,11 +34,15 @@ On the second graphic, we can see that men often engage in riskier activities th
 
 Other reason could be also that men have more aggressive or energetic movements while in the water, making them more noticeable to sharks.
 
+![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/activities_gender.png?raw=true)
+
 # 3. What are the countries with the highest number of shark attacks?
 
 The countries with highest number of shark attactks, are the USA, Autralia, South Africa, Italy and Reunion (France). 
 
 What these countries have in common is that all of them have warm waters, abundant marine life and also received a lot of tourist which is easier to have interactions.
+
+![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/number_of_attacks_yearandsex.png?raw=true](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/activities_gender.png?raw=true) 
 
 # 4. Which countries experience the highest number of shark attacks, and are these attacks more commonly associated with specific, more dangerous shark species?
 
@@ -52,6 +56,7 @@ It also happens with the tiger shark, this specie may investigate or bite object
 
 Otherwise, bull sharks are known for territorial behavior and can be aggressive with humans, particularly in shallow waters. 
 
+![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/top_3_countries_attacks_species.png]) 
 
 # In conclusion
 
