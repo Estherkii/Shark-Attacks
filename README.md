@@ -42,7 +42,7 @@ The countries with highest number of shark attactks, are the USA, Autralia, Sout
 
 What these countries have in common is that all of them have warm waters, abundant marine life and also received a lot of tourist which is easier to have interactions.
 
-![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/number_of_attacks_yearandsex.png?raw=true](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/activities_gender.png?raw=true) 
+![Text](https://github.com/Estherkii/project1-shark_attacks/blob/main/images/top_5_countries.png?raw=true) 
 
 # 4. Which countries experience the highest number of shark attacks, and are these attacks more commonly associated with specific, more dangerous shark species?
 
