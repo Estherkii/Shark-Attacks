@@ -1,6 +1,6 @@
 # Sharkalytics: A Data-Driven Dive into Shark Attack Patterns
 
-## Overview:
+# Overview:
 
 This aim of his project is to clean and format a dataset containing information about shark attacks, and use the data to produce visualizations that will either prove or disprove my hypotheses.
 
